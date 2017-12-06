@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api xmlns="http://ws.apache.org/ns/synapse"
+     name="S.COM/admin-AT-carbon.super--SCPservice"
+     context="/v1/ip/scp"
+     version="v1"
+     version-type="context">
+   <resource methods="GET"
+             uri-template="/delete/number/{RequestId}"
+             faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_0">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_0">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <resource methods="GET"
+             uri-template="/query/number/{RequestId}"
+             faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_1">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_1">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <resource methods="PUT" url-mapping="/resend/number" faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_2">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_2">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <resource methods="PUT" url-mapping="/delete/number" faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_3">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_3">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <resource methods="PUT" url-mapping="/audit/number" faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_4">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_4">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <resource methods="GET"
+             uri-template="/resend/number/{RequestId}"
+             faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_5">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_5">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <resource methods="GET"
+             uri-template="/audit/number/{RequestId}"
+             faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_6">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_6">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <resource methods="GET" uri-template="/query/number?*" faultSequence="fault">
+      <inSequence>
+         <property name="api.ut.backendRequestTime"
+                   expression="get-property('SYSTEM_TIME')"/>
+         <filter source="$ctx:AM_KEY_TYPE" regex="PRODUCTION">
+            <then>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIproductionEndpoint_7">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </then>
+            <else>
+               <send>
+                  <endpoint name="S.COM/admin-AT-carbon.super--SCPservice_APIsandboxEndpoint_7">
+                     <http uri-template="http://localhost:8484/muletest"/>
+                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                  </endpoint>
+               </send>
+            </else>
+         </filter>
+      </inSequence>
+      <outSequence>
+         <class name="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtResponseHandler"/>
+         <send/>
+      </outSequence>
+   </resource>
+   <handlers>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.common.APIMgtLatencyStatsHandler"/>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.security.CORSRequestHandler">
+         <property name="apiImplementationType" value="ENDPOINT"/>
+         <property name="allowHeaders"
+                   value="authorization,Access-Control-Allow-Origin,Content-Type,SOAPAction"/>
+         <property name="allowedOrigins" value="*"/>
+         <property name="allowedMethods" value="GET,PUT,POST,DELETE,PATCH,OPTIONS"/>
+      </handler>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.security.APIAuthenticationHandler"/>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.throttling.ThrottleHandler"/>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtUsageHandler"/>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.analytics.APIMgtGoogleAnalyticsTrackingHandler">
+         <property name="configKey" value="gov:/apimgt/statistics/ga-config.xml"/>
+      </handler>
+      <handler class="org.wso2.carbon.apimgt.gateway.handlers.ext.APIManagerExtensionHandler"/>
+   </handlers>
+</api>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="v1_securityserviceIn" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+  <sequence key="gov:com/somos/services/v1/ip/securityservice/sequences/v1_assignEnvironmentValues.xml"/>
+  <property description="apiResourcePath"
+    expression="$ctx:REST_SUB_REQUEST_PATH" name="apiResourcePath"
+    scope="default" type="STRING"/>
+  <property description="apiStep" name="apiStep" scope="default"
+    type="STRING" value="v1_securityserviceIn"/>
+  <switch source="get-property('axis2', 'HTTP_METHOD')">
+    <case regex="^GET$">
+      <sequence key="gov:com/somos/services/v1/ip/securityservice/sequences/v1_securityserviceGET.xml"/>
+    </case>
+    <case regex="^PUT$">
+      <sequence key="gov:com/somos/services/v1/ip/securityservice/sequences/v1_securityservicePUT.xml"/>
+    </case>
+    <case regex="^POST$">
+      <sequence key="gov:com/somos/services/v1/ip/securityservice/sequences/v1_securityservicePOST.xml"/>
+    </case>
+    <case regex="^DELETE$">
+      <sequence key="gov:com/somos/services/v1/ip/securityservice/sequences/v1_securityserviceDELETE.xml"/>
+    </case>
+    <default/>
+  </switch>
+</sequence>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence xmlns="http://ws.apache.org/ns/synapse"
+          name="S.COM/admin-AT-carbon.super--SCPservice:vv1--In">
+   <sequence key="gov:com/somos/services/v1/ip/SCPservice/sequences/v1_SCPserviceIn.xml"/>
+</sequence>

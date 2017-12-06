@@ -1,0 +1,14 @@
+[2017-11-16 19:36:02,761]  INFO -  {"performedBy":"S.COM\/admin","action":"created","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"SecurityService\",\"context\":\"\\\/v1\\\/ip\\\/sec\",\"version\":\"v1\"}"} 
+[2017-11-16 19:36:03,983]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:36:03,980+0530] 
+[2017-11-16 19:36:04,767]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"SecurityService\",\"context\":\"\\\/v1\\\/ip\\\/sec\",\"version\":\"v1\"}"} 
+[2017-11-16 19:36:05,095]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:36:05,081+0530] 
+[2017-11-16 19:36:59,079]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:36:59,043+0530] 
+[2017-11-16 19:36:59,399]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"SecurityService\",\"context\":\"\\\/v1\\\/ip\\\/sec\",\"version\":\"v1\"}"} 
+[2017-11-16 19:36:59,550]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:36:59,548+0530] 
+[2017-11-16 19:37:08,067]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:37:08,065+0530] 
+[2017-11-16 19:37:08,470]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:37:08,468+0530] 
+[2017-11-16 19:37:08,739]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"SecurityService\",\"context\":\"\\\/v1\\\/ip\\\/sec\",\"version\":\"v1\"}"} 
+[2017-11-16 19:37:08,912]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:37:08,908+0530] 
+[2017-11-16 19:37:09,461]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:37:09,458+0530] 
+[2017-11-16 19:37:10,446]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:37:10,445+0530] 
+[2017-11-16 19:37:12,114]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-16 19:37:12,104+0530] 

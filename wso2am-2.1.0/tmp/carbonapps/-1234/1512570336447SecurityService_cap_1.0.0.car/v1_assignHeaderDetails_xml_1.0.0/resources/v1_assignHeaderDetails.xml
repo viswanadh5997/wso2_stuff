@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="v1_assignHeaderDetails" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+  <class name="com.somos.custom.idgeneration.GenerateCorrelationID"/>
+  <property expression="$ctx:api.ut.userName" name="sessionIDFromWso2"
+    scope="transport" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property expression="json-eval($usrName)" name="sessionIDFromInput"
+    scope="default" type="STRING"/>
+  <filter regex="null" source="get-property('sessionIDFromInput')"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope">
+    <then>
+      <header
+        expression="fn:concat(get-property('sessionIDFromWso2'), $ctx:api.ut.userName)"
+        name="sessionID" scope="transport"/>
+      <log level="custom">
+        <property expression="$ctx:api.ut.userName" name="sessionID"/>
+      </log>
+    </then>
+    <else>
+      <header
+        expression="fn:concat(get-property('sessionIDFromInput'), $ctx:api.ut.userName)"
+        name="sessionID" scope="transport"/>
+      <log level="custom">
+        <property
+          expression="fn:concat(get-property('sessionIDFromInput'), $ctx:api.ut.userName)" name="sessionID"/>
+      </log>
+    </else>
+  </filter>
+  <property expression="$ctx:REST_FULL_REQUEST_PATH" name="apiName"
+    scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property expression="$ctx:REST_SUB_REQUEST_PATH" name="apiSubName"
+    scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property expression="get-property('REST_FULL_REQUEST_PATH')"
+    name="requestURI" scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property expression="$ctx:api.ut.userName" name="sessionID"
+    scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property
+    expression="fn:concat($ctx:api.ut.hostName,'::' ,get-property('corelationID'))"
+    name="correlationID" scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property name="environmentID" scope="default" type="STRING" value="DIT"/>
+  <header expression="get-property('environmentID')"
+    name="environmentID" scope="transport"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <header expression="get-property('correlationID')"
+    name="correlationID" scope="transport"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <filter regex="/session/open" source="get-property('apiSubName')"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope">
+    <then>
+      <property expression="json-eval($.usrName)" name="usrName"
+        scope="default" type="STRING"/>
+      <property expression="fn:concat('S.COM/',get-property('usrName'))"
+        name="usrNameorg" scope="default" type="STRING"/>
+      <log level="custom">
+        <property expression="get-property('usrNameorg')" name="usrNameorg----->"/>
+      </log>
+    </then>
+    <else>
+      <property expression="$ctx:api.ut.userName" name="usrNameorg"
+        scope="default" type="STRING"/>
+      <log level="custom">
+        <property expression="get-property('usrNameorg')" name="usrNameorg----->"/>
+      </log>
+    </else>
+  </filter>
+  <filter regex="/password/update" source="get-property('apiSubName')"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope">
+    <then>
+      <property expression="json-eval($.usrName)" name="usrName"
+        scope="default" type="STRING"/>
+      <property expression="fn:concat('S.COM/',get-property('usrName'))"
+        name="usrNameorg" scope="default" type="STRING"/>
+      <log level="custom">
+        <property expression="get-property('usrNameorg')" name="usrNameorg----->"/>
+      </log>
+    </then>
+    <else>
+      <property expression="$ctx:api.ut.userName" name="usrNameorg"
+        scope="default" type="STRING"/>
+      <log level="custom">
+        <property expression="get-property('usrNameorg')" name="usrNameorg----->"/>
+      </log>
+    </else>
+  </filter>
+  <script language="js"><![CDATA[var userid = mc.getProperty('usrNameorg');
+
+       var res = "";
+      if( userid.indexOf("@carbon.super") != -1 )
+      {
+
+                res = userid.replace('@carbon.super', "");
+
+       }else{
+
+       res = userid;
+
+       }
+            mc.setProperty("usrNameorgfinal", res);]]></script>
+  <!--  start for updating claim value -->
+  <property expression="$ctx:REST_SUB_REQUEST_PATH" name="apiName"
+    scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property expression="get-property('usrNameorgfinal')" name="user"
+    scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property name="claimupdatesource" scope="default" type="STRING" value="http://wso2.org/claims/identity/lastActivity"/>
+  <property name="function" scope="default" type="STRING" value="update"/>
+  <property expression="get-property('SYSTEM_TIME')"
+    name="claimupdatevalue" scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <log level="custom">
+    <property expression="get-property('claimupdatevalue')"
+      name="currenttime----->" xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  </log>
+  <!--  end for updating claim value -->
+  <!--  start for adding resporg & userclass headers -->
+  <property expression="$ctx:REST_SUB_REQUEST_PATH" name="apiName"
+    scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property expression="get-property('claimsource')" name="user"
+    scope="default" type="STRING"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <property name="claimsource" scope="default" type="STRING" value="http://wso2.org/claims/organization,http://wso2.org/claims/userClass"/>
+  <property name="function" scope="default" type="STRING" value="get"/>
+  <property name="claimvalue" scope="default" type="STRING" value=""/>
+  <class name="com.somos.wso2.operation.Claim"/>
+  <filter regex="success" source="get-property('status')"
+    xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope">
+    <then>
+      <log level="custom">
+        <property expression="get-property('0')" name="userRespOrg----->"/>
+      </log>
+      <log level="custom">
+        <property expression="get-property('1')" name="userClass----->"/>
+      </log>
+      <header expression="get-property('0')" name="userRespOrg" scope="transport"/>
+      <header expression="get-property('1')" name="userClass" scope="transport"/>
+    </then>
+    <else/>
+  </filter>
+  <!--  end for adding resporg & userclass headers -->
+  <header expression="get-property('usrNameorgfinal')" name="userID"
+    scope="transport" xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  <log level="custom">
+    <property expression="get-property('environmentID')"
+      name="environmentID" xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+    <property expression="get-property('requestURI')" name="requestURI"
+      xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+    <property expression="get-property('correlationID')"
+      name="correlationID" xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+    <property expression="get-property('usrNameorg')" name="userID"
+      xmlns:ns3="http://org.apache.synapse/xsd" xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope"/>
+  </log>
+  <!--  start for adding stats in DB -->
+  <!--
+  
+  <dbreport>
+    <connection>
+      <pool>
+        <dsName>jdbc/WSO2AM_STATS_DB</dsName>
+      </pool>
+    </connection>
+    <statement>
+      <sql><![CDATA[insert into api_resource_stats(requestURI,correlationID,username,create_date) values(?,?,?,sysdate)]]></sql>
+      <parameter expression="get-property('requestURI')" type="VARCHAR"/>
+      <parameter expression="get-property('correlationID')" type="VARCHAR"/>
+      <parameter
+        expression="fn:concat(get-property('sessionIDFromInput'), $ctx:api.ut.userName)" type="VARCHAR"/>
+    </statement>
+  </dbreport>
+  
+  -->
+  <!--  end for adding stats in DB -->
+</sequence>

@@ -1,0 +1,39 @@
+[2017-11-17 12:20:43,228]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:20:43,228+0530] 
+[2017-11-17 12:20:47,743]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"SecurityService\",\"context\":\"\\\/v1\\\/ip\\\/sec\",\"version\":\"v1\"}"} 
+[2017-11-17 12:20:47,900]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:20:47,900+0530] 
+[2017-11-17 12:20:48,177]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:20:48,177+0530] 
+[2017-11-17 12:20:49,330]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:20:49,330+0530] 
+[2017-11-17 12:20:49,846]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:20:49,846+0530] 
+[2017-11-17 12:20:50,947]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:20:50,947+0530] 
+[2017-11-17 12:20:51,135]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:20:51,135+0530] 
+[2017-11-17 12:21:15,987]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:15,971+0530] 
+[2017-11-17 12:21:16,413]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:16,410+0530] 
+[2017-11-17 12:21:18,918]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"SecurityService\",\"context\":\"\\\/v1\\\/ip\\\/sec\",\"version\":\"v1\"}"} 
+[2017-11-17 12:21:19,091]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:19,090+0530] 
+[2017-11-17 12:21:19,375]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:19,366+0530] 
+[2017-11-17 12:21:20,167]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:20,152+0530] 
+[2017-11-17 12:21:20,459]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:20,457+0530] 
+[2017-11-17 12:21:21,681]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:21,678+0530] 
+[2017-11-17 12:21:21,837]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:21:21,823+0530] 
+[2017-11-17 12:23:06,137]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:06,137+0530] 
+[2017-11-17 12:23:06,416]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:06,416+0530] 
+[2017-11-17 12:23:06,960]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"SecurityService\",\"context\":\"\\\/v1\\\/ip\\\/sec\",\"version\":\"v1\"}"} 
+[2017-11-17 12:23:07,103]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:07,103+0530] 
+[2017-11-17 12:23:07,337]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:07,306+0530] 
+[2017-11-17 12:23:07,882]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:07,882+0530] 
+[2017-11-17 12:23:08,104]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:08,103+0530] 
+[2017-11-17 12:23:09,003]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:09,003+0530] 
+[2017-11-17 12:23:09,141]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:23:09,136+0530] 
+[2017-11-17 12:25:03,116]  INFO -  {"performedBy":"S.COM\/viswanadh","action":"created","typ":"Application","info":"{\"tier\":\"Unlimited\",\"name\":\"TFN_REGISTRY\",\"callbackURL\":null}"} 
+[2017-11-17 12:26:11,660]  INFO -  {"performedBy":"S.COM\/viswanadh","action":"created","typ":"Subscription","info":"{\"application_name\":\"TFN_REGISTRY\",\"tier\":\"Unlimited\",\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"api_name\":\"SecurityService\",\"application_id\":3}"} 
+[2017-11-17 12:26:18,156]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:26:18,154+0530] 
+[2017-11-17 12:26:18,566]  INFO -  Initiator : S.COM/viswanadh | Action : create | Target : 0 | Data : { S.COM_viswanadh_TFN_REGISTRY_PRODUCTION } | Result : Success  
+[2017-11-17 12:26:19,094]  INFO -  Initiator : S.COM/viswanadh | Action : update | Target : 4 | Data : { S.COM_viswanadh_TFN_REGISTRY_PRODUCTION } | Result : Success  
+[2017-11-17 12:26:19,266]  INFO -  Initiator : S.COM/viswanadh | Action : update | Target : 4 | Data : { S.COM_viswanadh_TFN_REGISTRY_PRODUCTION } | Result : Success  
+[2017-11-17 12:43:16,080]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:43:15,714+0530] from IP address  
+[2017-11-17 12:43:21,310]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:43:21,295+0530] from IP address  
+[2017-11-17 12:45:03,160]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 12:45:03,157+0530] from IP address  
+[2017-11-17 13:00:35,658]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 13:00:35,656+0530] 
+[2017-11-17 13:50:31,580]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 13:50:31,574+0530] 
+[2017-11-17 17:17:52,989]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 17:17:52,968+0530] 
+[2017-11-17 17:25:31,461]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-17 17:25:31,455+0530] 

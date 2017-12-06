@@ -1,0 +1,14 @@
+[2017-07-04 11:08:55,597]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-04 11:08:55,597+0530] 
+[2017-07-04 11:26:31,687]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { API_STORE_TEMP } | Result : Success  
+[2017-07-04 11:28:37,537]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : wso2_brsn3 | Data : { Roles :Internal/publisher,Internal/subscriber, } | Result : Success  
+[2017-07-04 11:31:17,761]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : viswa_bsnr3 | Data : { Roles :Internal/creator,Internal/publisher,Internal/subscriber, } | Result : Success  
+[2017-07-04 11:33:17,187]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { API_STORE_TEMP } | Result : Success  
+[2017-07-04 13:05:26,788]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-04 13:05:26,758+0530] 
+[2017-07-04 13:06:27,823]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : viswa_test | Data : { Roles :Internal/subscriber, } | Result : Success  
+[2017-07-04 17:39:50,104]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-04 17:39:05,120+0530] 
+[2017-07-04 17:39:50,109]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-04 17:39:18,818+0530] 
+[2017-07-04 18:11:24,967]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-04 18:11:24,965+0530] 
+[2017-07-04 18:11:24,986]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-04 18:11:24,980+0530] 
+[2017-07-04 20:11:06,021]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-04 20:11:06,020+0530] 
+[2017-07-04 20:12:11,959]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 1 | Data : { API_PUBLISHER_TEMP } | Result : Success  
+[2017-07-04 20:12:15,478]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 1 | Data : { API_PUBLISHER_TEMP } | Result : Success  

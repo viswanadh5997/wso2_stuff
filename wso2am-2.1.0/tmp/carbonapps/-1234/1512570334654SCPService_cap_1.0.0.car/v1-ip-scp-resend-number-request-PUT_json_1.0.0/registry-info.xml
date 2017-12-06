@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <item>
+        <file>v1-ip-scp-resend-number-request-PUT.json</file>
+        <path>/_system/config/jsonschema</path>
+        <mediaType/>
+    </item>
+</resources>

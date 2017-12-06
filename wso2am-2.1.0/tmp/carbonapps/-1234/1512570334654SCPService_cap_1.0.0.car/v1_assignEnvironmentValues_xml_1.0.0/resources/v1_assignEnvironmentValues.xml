@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="v1_assignEnvironmentValues" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+  <property
+    expression="get-property('registry', 'gov:com/somos/services/v1/ip/SCPservice/resources/environment-values.properties')"
+    name="localProperties" scope="default" type="OM" xmlns:ns="http://org.apache.synapse/xsd"/>
+  <property expression="$ctx:localProperties//environmentid"
+    name="environmentIDGlobal" scope="default" type="STRING"/>
+  <log level="custom">
+    <property expression="get-property('environmentIDGlobal')" name="environmentid------>"/>
+  </log>
+</sequence>

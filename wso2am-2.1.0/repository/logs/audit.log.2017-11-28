@@ -1,0 +1,32 @@
+[2017-11-28 11:24:07,823]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:24:07,823+0530] 
+[2017-11-28 11:24:09,855]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:24:09,855+0530] 
+[2017-11-28 11:25:36,654]  INFO -  {"performedBy":"S.COM\/admin","action":"created","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"testService\",\"context\":\"\\\/v1\\\/ip\\\/test\",\"version\":\"v1\"}"} 
+[2017-11-28 11:25:37,451]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:25:37,451+0530] 
+[2017-11-28 11:25:38,091]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"testService\",\"context\":\"\\\/v1\\\/ip\\\/test\",\"version\":\"v1\"}"} 
+[2017-11-28 11:25:38,216]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:25:38,216+0530] 
+[2017-11-28 11:26:15,494]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:26:15,494+0530] 
+[2017-11-28 11:26:19,510]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"testService\",\"context\":\"\\\/v1\\\/ip\\\/test\",\"version\":\"v1\"}"} 
+[2017-11-28 11:26:19,682]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:26:19,682+0530] 
+[2017-11-28 11:26:21,085]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:26:21,069+0530] 
+[2017-11-28 11:26:21,428]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"testService\",\"context\":\"\\\/v1\\\/ip\\\/test\",\"version\":\"v1\"}"} 
+[2017-11-28 11:26:21,585]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:26:21,585+0530] 
+[2017-11-28 11:28:28,425]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:28:28,409+0530] 
+[2017-11-28 11:28:37,279]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"testService\",\"context\":\"\\\/v1\\\/ip\\\/test\",\"version\":\"v1\"}"} 
+[2017-11-28 11:28:37,577]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:28:37,577+0530] 
+[2017-11-28 11:28:39,340]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:28:39,324+0530] 
+[2017-11-28 11:28:40,177]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:28:40,177+0530] 
+[2017-11-28 11:34:07,455]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:34:07,449+0530] 
+[2017-11-28 11:34:07,892]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"testService\",\"context\":\"\\\/v1\\\/ip\\\/test\",\"version\":\"v1\"}"} 
+[2017-11-28 11:34:08,054]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:34:08,053+0530] 
+[2017-11-28 11:34:08,280]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:34:08,280+0530] 
+[2017-11-28 11:34:08,702]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:34:08,700+0530] 
+[2017-11-28 11:34:08,918]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:34:08,906+0530] 
+[2017-11-28 11:44:25,626] ERROR -  Illegal access attempt at [2017-11-28 11:44:25,0626] from IP address 127.0.0.1 while trying to authenticate access to service WSRegistryService 
+[2017-11-28 11:44:26,048]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:44:26,048+0530] 
+[2017-11-28 11:44:26,517]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 11:44:26,439+0530] 
+[2017-11-28 12:58:30,607]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 12:58:30,591+0530] 
+[2017-11-28 17:05:14,036]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 17:05:14,036+0530] 
+[2017-11-28 17:55:42,809]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 17:55:42,805+0530] 
+[2017-11-28 18:24:25,824]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 18:24:15,830+0530] 
+[2017-11-28 18:49:49,732]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 18:48:19,289+0530] 
+[2017-11-28 19:20:53,284]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-28 19:20:53,280+0530] 

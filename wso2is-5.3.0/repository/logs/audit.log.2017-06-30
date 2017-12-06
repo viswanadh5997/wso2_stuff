@@ -1,0 +1,21 @@
+[2017-06-30 18:17:21,172]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-06-30 18:17:21,167+0530] 
+[2017-06-30 18:27:48,917]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-06-30 18:27:48,916+0530] 
+[2017-06-30 18:31:22,701] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 18:31:22,0696] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-06-30 18:31:24,875]  INFO {AUDIT_LOG}-  'viswanadh@carbon.super [-1234]' logged in at [2017-06-30 18:31:24,873+0530] 
+[2017-06-30 18:31:25,346]  INFO {AUDIT_LOG}-  Initiator : viswanadh@carbon.super | Action : Change Password by User | Target : viswanadh | Data : {  } | Result : Success  
+[2017-06-30 18:32:41,526] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 18:32:41,0524] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-06-30 18:32:42,852]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'viswanadh[-1234]' at [2017-06-30 18:32:42,851+0530] 
+[2017-06-30 18:32:42,856] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 18:32:42,0853] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-06-30 18:32:59,109] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 18:32:59,0107] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-06-30 18:33:00,171]  INFO {AUDIT_LOG}-  'viswanadh@carbon.super [-1234]' logged in at [2017-06-30 18:33:00,170+0530] 
+[2017-06-30 18:33:00,246]  INFO {AUDIT_LOG}-  Initiator : viswanadh@carbon.super | Action : Change Password by User | Target : viswanadh | Data : {  } | Result : Success  
+[2017-06-30 18:34:20,891] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 18:34:20,0889] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-06-30 18:34:22,175]  INFO {AUDIT_LOG}-  'viswanadh@carbon.super [-1234]' logged in at [2017-06-30 18:34:22,173+0530] 
+[2017-06-30 18:34:22,281]  INFO {AUDIT_LOG}-  Initiator : viswanadh@carbon.super | Action : Change Password by User | Target : viswanadh | Data : {  } | Result : Success  
+[2017-06-30 19:08:52,678] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 19:08:52,0673] from IP address null while trying to authenticate access to service IdentityProviderMgtService 
+[2017-06-30 19:09:00,053]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-06-30 19:09:00,052+0530] 
+[2017-06-30 19:09:40,202]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : viswanadh | Data : {  } | Result : Success  
+[2017-06-30 19:10:23,549] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 19:10:23,0547] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-06-30 19:10:24,604]  INFO {AUDIT_LOG}-  'viswanadh@carbon.super [-1234]' logged in at [2017-06-30 19:10:24,604+0530] 
+[2017-06-30 19:10:43,622] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-06-30 19:10:43,0621] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-06-30 19:10:44,408]  INFO {AUDIT_LOG}-  'viswanadh@carbon.super [-1234]' logged in at [2017-06-30 19:10:44,407+0530] 

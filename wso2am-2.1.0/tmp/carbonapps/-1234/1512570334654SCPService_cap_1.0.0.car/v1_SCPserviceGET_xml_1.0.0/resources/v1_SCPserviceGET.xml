@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="v1_SCPserviceGET" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+  <script language="js"><![CDATA[mc.setProperty("ERROR_MESSAGE_REQUESTID", "Invalid RequestId " + mc.getProperty("uri.var.RequestId"));]]></script>
+  <property expression="$url:recNum" name="recNum" scope="default" type="STRING"/>
+  <property expression="$url:effDtTm" name="effDtTm" scope="default" type="STRING"/>
+  <property name="error_delimiter" scope="default" type="STRING" value=" ^^^^@@#### "/>
+  <filter regex="true" source="boolean(get-property('uri.var.RequestId'))">
+    <then>
+      <log level="custom">
+        <property expression="get-property('uri.var.RequestId')" name="defaultBlk-requestid"/>
+      </log>
+      <switch source="get-property('uri.var.RequestId')">
+        <case regex="^\d+$">
+          <property name="error_code" scope="default" type="STRING" value="200"/>
+        </case>
+        <default>
+          <!-- perhaps set an error code -->
+          <property name="error_code" scope="default" type="STRING" value="400"/>
+          <property name="status" scope="default" type="STRING" value="true"/>
+          <script language="js"><![CDATA[mc.setProperty("error_description", mc.getProperty("ERROR_MESSAGE_REQUESTID"));]]></script>
+        </default>
+      </switch>
+    </then>
+    <else/>
+  </filter>
+  <filter regex="^.*?recNum=.*$" source="get-property('To')">
+    <then>
+      <filter regex="true" source="boolean(get-property('recNum'))">
+        <then>
+          <switch source="get-property('recNum')">
+            <case regex="^((800)|(888)|(877)|(866)|(855)|(844)|(833))[0-9a-zA-Z]{7}$">
+              <filter regex="400" source="get-property('error_code')">
+                <then>
+                  <property name="error_code" scope="default"
+                    type="STRING" value="400"/>
+                </then>
+                <else>
+                  <property name="error_code" scope="default"
+                    type="STRING" value="200"/>
+                </else>
+              </filter>
+            </case>
+            <default>
+              <!-- perhaps set an error code -->
+              <property name="error_code" scope="default" type="STRING" value="400"/>
+              <property
+                expression="fn:concat(' Invalid rec num ', get-property('recNum'),'- Expected pattern : ^((800)|(888)|(877)|(866)|(855)|(844)|(833))[0-9a-zA-Z]{7}$ ',get-property('error_delimiter'))"
+                name="error_description" scope="default" type="STRING"/>
+            </default>
+          </switch>
+        </then>
+        <else>
+          <property name="error_code" scope="default" type="STRING" value="400"/>
+          <property
+            expression="fn:concat(' Invalid rec num ', get-property('recNum'),'- Expected pattern : ^((800)|(888)|(877)|(866)|(855)|(844)|(833))[0-9a-zA-Z]{7}$ ',get-property('error_delimiter'))"
+            name="error_description" scope="default" type="STRING"/>
+        </else>
+      </filter>
+    </then>
+    <else/>
+  </filter>
+  <filter
+    regex="^.*?recNum=.*&amp;effDtTm=.*?$|^.*?effDtTm=.*&amp;recNum=.*?$" source="get-property('To')">
+    <then>
+      <filter regex="true" source="boolean(get-property('recNum'))">
+        <then>
+          <switch source="get-property('recNum')">
+            <case regex="^((800)|(888)|(877)|(866)|(855)|(844)|(833))[0-9a-zA-Z]{7}$">
+              <filter regex="400" source="get-property('error_code')">
+                <then>
+                  <property name="error_code" scope="default"
+                    type="STRING" value="400"/>
+                </then>
+                <else>
+                  <property name="error_code" scope="default"
+                    type="STRING" value="200"/>
+                </else>
+              </filter>
+            </case>
+            <default>
+              <!-- perhaps set an error code -->
+              <property name="error_code" scope="default" type="STRING" value="400"/>
+              <property
+                expression="fn:concat(' Invalid rec num ', get-property('recNum'),'- Expected pattern : ^((800)|(888)|(877)|(866)|(855)|(844)|(833))[0-9a-zA-Z]{7}$ ',get-property('error_delimiter'))"
+                name="Error-Message-RecNumValue" scope="default" type="STRING"/>
+            </default>
+          </switch>
+        </then>
+        <else>
+          <property name="error_code" scope="default" type="STRING" value="400"/>
+          <property
+            expression="fn:concat(' Invalid rec num ', get-property('recNum'),'- Expected pattern : ^((800)|(888)|(877)|(866)|(855)|(844)|(833))[0-9a-zA-Z]{7}$ ',get-property('error_delimiter'))"
+            name="Error-Message-RecNumValue" scope="default" type="STRING"/>
+        </else>
+      </filter>
+      <filter regex="true" source="boolean(get-property('effDtTm'))">
+        <then>
+          <switch source="get-property('effDtTm')">
+            <case regex="^([1-9]{1})([0-9]{3})([0-9]{2})([0-9]{2})?([T]([0-9]{2})([0-9]{2})([0-9]{2}))[Z]$">
+              <filter regex="400" source="get-property('error_code')">
+                <then>
+                  <property name="error_code" scope="default"
+                    type="STRING" value="400"/>
+                </then>
+                <else>
+                  <property name="error_code" scope="default"
+                    type="STRING" value="200"/>
+                </else>
+              </filter>
+            </case>
+            <default>
+              <!-- perhaps set an error code -->
+              <property name="error_code" scope="default" type="STRING" value="400"/>
+              <property
+                expression="fn:concat(' Invalid effDtTm ', get-property('effDtTm'),'- Expected pattern : ^([1-9]{1})([0-9]{3})([0-9]{2})([0-9]{2})?([T]([0-9]{2})([0-9]{2})([0-9]{2}))[Z]$ ',get-property('error_delimiter'))"
+                name="Error-Message-DateTime" scope="default" type="STRING"/>
+            </default>
+          </switch>
+        </then>
+        <else>
+          <property name="error_code" scope="default" type="STRING" value="400"/>
+          <property
+            expression="fn:concat(' Invalid effDtTm ', get-property('effDtTm'),'- Expected pattern : ^([1-9]{1})([0-9]{3})([0-9]{2})([0-9]{2})?([T]([0-9]{2})([0-9]{2})([0-9]{2}))[Z]$ ',get-property('error_delimiter'))"
+            name="Error-Message-DateTime" scope="default" type="STRING"/>
+        </else>
+      </filter>
+      <filter regex="400" source="get-property('error_code')">
+        <then>
+          <property
+            expression="fn:concat(get-property('Error-Message-RecNumValue'),get-property('Error-Message-DateTime'))"
+            name="error_description" scope="default" type="STRING"/>
+        </then>
+        <else/>
+      </filter>
+    </then>
+    <else/>
+  </filter>
+  <switch source="get-property('error_code')">
+    <case regex="400">
+      <property name="status" scope="default" type="STRING" value="true"/>
+      <sequence key="gov:com/somos/services/v1/ip/SCPservice/sequences/v1_SCPserviceError.xml"/>
+    </case>
+    <default/>
+  </switch>
+</sequence>

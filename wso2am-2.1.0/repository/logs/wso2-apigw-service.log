@@ -1,0 +1,1019 @@
+2017-11-16 18:01:17,881 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-16 18:01:17,912 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-16 18:01:17,928 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-16 18:22:44,608 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-16 18:22:44,639 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-16 18:22:44,639 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-16 19:07:49,245 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-16 19:07:49,275 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-16 19:07:49,282 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-16 19:19:31,052 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-16 19:19:31,085 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-16 19:19:31,094 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-16 19:27:43,365 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-16 19:27:43,394 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-16 19:27:43,400 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-17 12:16:08,693 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-17 12:16:08,756 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-17 12:16:08,756 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-17 12:55:51,209 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-17 12:55:51,238 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-17 12:55:51,238 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-17 13:40:39,704 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-17 13:40:39,737 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-17 13:40:39,742 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-17 15:55:04,391 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-17 15:55:04,441 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-17 15:55:04,444 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-17 17:24:43,021 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-17 17:24:43,049 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-17 17:24:43,052 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-17 17:26:16,534 [-] [http-nio-9443-exec-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2017-11-17 17:26:16,684 [-] [http-nio-9443-exec-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /
+2017-11-21 13:54:07,935 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-21 13:54:07,982 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-21 13:54:07,982 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-21 17:54:18,844 [-] [PassThroughMessageProcessor-5]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /resend/number
+2017-11-21 18:18:07,389 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-21 18:18:07,416 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-21 18:18:07,419 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-22 13:01:50,828 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-22 13:01:50,872 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-22 13:01:50,874 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 11:22:40,611 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 11:22:40,829 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 11:22:40,845 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 16:59:17,126 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 16:59:17,157 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 16:59:17,157 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 17:07:09,359 [-] [pool-114-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 17:07:09,359 [-] [pool-114-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 17:07:09,375 [-] [pool-114-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 17:07:09,391 [-] [pool-114-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 17:07:09,391 [-] [pool-114-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 17:07:09,391 [-] [pool-114-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 17:08:44,267 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /SMSSenderProxy
+2017-11-28 17:10:30,885 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 17:10:30,888 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 17:10:30,894 [-] [PassThroughMessageProcessor-2]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:10:30,894 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:24:52,222 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 17:24:52,243 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 17:24:52,249 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 17:25:12,340 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 17:25:12,342 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 17:25:12,350 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 17:25:12,402 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 17:25:12,404 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 17:25:12,409 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 17:25:30,427 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 17:25:30,429 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 17:25:30,436 [-] [PassThroughMessageProcessor-1]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:25:30,436 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:31:13,090 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 17:31:13,151 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 17:31:13,158 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 17:31:36,822 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 17:31:36,825 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 17:31:36,835 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 17:31:36,892 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 17:31:36,898 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 17:31:36,910 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 17:32:00,579 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 17:32:00,582 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 17:32:00,593 [-] [PassThroughMessageProcessor-1]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:32:00,593 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:49:10,649 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 17:49:10,681 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 17:49:10,695 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 17:49:31,523 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 17:49:31,576 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 17:49:31,654 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 17:49:31,747 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 17:49:31,756 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 17:49:31,766 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 17:49:51,249 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 17:49:51,252 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 17:49:51,257 [-] [PassThroughMessageProcessor-1]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:49:51,257 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:52:11,940 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 17:52:11,940 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Error while building message
+2017-11-28 17:52:11,981 [-] [PassThroughMessageProcessor-2]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:52:11,981 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:52:33,367 [-] [PassThroughMessageProcessor-3]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:52:33,367 [-] [PassThroughMessageProcessor-3]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:53:27,747 [-] [PassThroughMessageProcessor-4]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 17:53:27,748 [-] [PassThroughMessageProcessor-4]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 17:53:27,749 [-] [PassThroughMessageProcessor-4]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:53:27,750 [-] [PassThroughMessageProcessor-4]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:53:56,422 [-] [PassThroughMessageProcessor-5]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:53:56,422 [-] [PassThroughMessageProcessor-5]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 17:56:43,492 [-] [PassThroughMessageProcessor-6]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 17:56:43,493 [-] [PassThroughMessageProcessor-6]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 17:56:43,499 [-] [PassThroughMessageProcessor-6]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 17:56:43,499 [-] [PassThroughMessageProcessor-6]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 18:08:14,009 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 18:08:14,041 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 18:08:14,047 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 18:08:36,558 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 18:08:36,561 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 18:08:37,319 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 18:08:37,351 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 18:08:37,354 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 18:08:37,357 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 18:11:17,767 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 18:11:17,770 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 18:11:17,777 [-] [PassThroughMessageProcessor-1]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 18:11:17,778 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 18:25:16,896 [-] [pool-113-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-28 18:25:16,927 [-] [pool-113-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-28 18:26:18,918 [-] [pool-113-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 18:26:18,920 [-] [pool-113-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 18:26:19,546 [-] [pool-113-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 18:26:19,572 [-] [pool-113-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 18:26:19,578 [-] [pool-113-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 18:26:19,580 [-] [pool-113-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 18:27:25,252 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 18:27:25,252 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 18:27:25,256 [-] [PassThroughMessageProcessor-2]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 18:27:25,256 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 18:50:14,363 [-] [pool-113-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-28 18:50:14,387 [-] [pool-113-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-28 18:50:43,204 [-] [pool-113-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 18:50:43,204 [-] [pool-113-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 18:50:43,975 [-] [pool-113-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 18:50:44,007 [-] [pool-113-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 18:50:44,010 [-] [pool-113-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 18:50:44,012 [-] [pool-113-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 18:59:53,284 [-] [PassThroughMessageProcessor-3]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 18:59:53,284 [-] [PassThroughMessageProcessor-3]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 18:59:53,292 [-] [PassThroughMessageProcessor-3]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 18:59:53,292 [-] [PassThroughMessageProcessor-3]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 19:17:01,587 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 19:17:01,624 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 19:17:01,629 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 19:17:30,389 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 19:17:30,394 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 19:17:31,499 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 19:17:31,532 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 19:17:31,535 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 19:17:31,539 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 19:20:00,853 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 19:20:00,855 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 19:20:00,860 [-] [PassThroughMessageProcessor-1]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 19:20:00,860 [-] [PassThroughMessageProcessor-1]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 19:21:14,626 [-] [pool-114-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-28 19:21:14,659 [-] [pool-114-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-28 19:22:15,081 [-] [pool-114-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 19:22:15,084 [-] [pool-114-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 19:22:16,294 [-] [pool-114-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 19:22:16,322 [-] [pool-114-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 19:22:16,326 [-] [pool-114-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 19:22:16,329 [-] [pool-114-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 19:23:26,398 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 19:23:26,398 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 19:23:26,404 [-] [PassThroughMessageProcessor-2]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 19:23:26,404 [-] [PassThroughMessageProcessor-2]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 19:24:42,084 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-28 19:24:49,033 [-] [PassThroughMessageProcessor-3] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-28 19:24:49,034 [-] [PassThroughMessageProcessor-3]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-28 19:24:49,034 [-] [PassThroughMessageProcessor-3]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 19:27:00,668 [-] [PassThroughMessageProcessor-4]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 19:27:00,668 [-] [PassThroughMessageProcessor-4]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 19:27:00,668 [-] [PassThroughMessageProcessor-4]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 19:27:00,668 [-] [PassThroughMessageProcessor-4]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 19:35:31,663 [-] [pool-114-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-28 19:35:31,702 [-] [pool-114-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-28 19:36:00,317 [-] [pool-114-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 19:36:00,322 [-] [pool-114-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 19:36:01,350 [-] [pool-114-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 19:36:01,407 [-] [pool-114-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 19:36:01,411 [-] [pool-114-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 19:36:01,416 [-] [pool-114-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 19:36:18,423 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-28 19:36:19,158 [-] [PassThroughMessageProcessor-5]  WARN SMSSenderProxy Executing fault handler due to exception encountered
+2017-11-28 19:36:19,158 [-] [PassThroughMessageProcessor-5]  WARN SMSSenderProxy ERROR_CODE : 0 ERROR_MESSAGE : Unexpected error during sending message out
+2017-11-28 19:36:19,169 [-] [PassThroughMessageProcessor-5]  INFO SMSSenderProxy FaultHandler executing impl: org.apache.synapse.mediators.MediatorFaultHandler
+2017-11-28 19:36:19,169 [-] [PassThroughMessageProcessor-5]  WARN SMSSenderProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-28 19:41:20,712 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-28 19:52:54,549 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-28 22:10:34,691 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-28 22:10:34,735 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-28 22:10:34,739 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-28 22:11:05,426 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-28 22:11:05,430 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-28 22:11:06,859 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-28 22:11:06,982 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-28 22:11:07,002 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-28 22:11:07,014 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-28 22:35:28,435 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-28 22:40:19,389 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 15:25:59,475 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-29 15:25:59,506 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-29 15:25:59,506 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-29 15:26:31,275 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 15:26:31,279 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 15:26:38,272 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 15:26:38,303 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 15:26:38,319 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 15:26:38,319 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 15:37:50,317 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:20:12,789 [-] [pool-116-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-29 16:20:12,874 [-] [pool-116-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-29 16:22:40,276 [-] [pool-116-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 16:22:40,276 [-] [pool-116-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 16:22:41,309 [-] [pool-116-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 16:22:41,343 [-] [pool-116-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 16:22:41,350 [-] [pool-116-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 16:22:41,353 [-] [pool-116-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 16:32:35,582 [-] [pool-116-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-29 16:32:35,606 [-] [pool-116-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-29 16:33:09,415 [-] [pool-116-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 16:33:09,419 [-] [pool-116-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 16:33:10,451 [-] [pool-116-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 16:33:10,490 [-] [pool-116-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 16:33:10,494 [-] [pool-116-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 16:33:10,498 [-] [pool-116-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 16:33:19,577 [-] [PassThroughMessageProcessor-8]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 16:33:19,655 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:33:38,344 [-] [PassThroughMessageProcessor-12]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 16:33:38,629 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:33:38,756 [-] [PassThroughMessageProcessor-13] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 16:33:38,757 [-] [PassThroughMessageProcessor-13]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 16:33:38,758 [-] [PassThroughMessageProcessor-13]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 16:34:54,796 [-] [PassThroughMessageProcessor-16]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 16:34:54,852 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:35:01,658 [-] [PassThroughMessageProcessor-20]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 16:35:01,716 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:35:01,771 [-] [PassThroughMessageProcessor-21] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 16:35:01,772 [-] [PassThroughMessageProcessor-21]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 16:35:01,772 [-] [PassThroughMessageProcessor-21]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 16:36:13,482 [-] [PassThroughMessageProcessor-24]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 16:36:13,535 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:53:31,064 [-] [pool-116-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-29 16:53:31,091 [-] [pool-116-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-29 16:54:34,816 [-] [pool-116-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 16:54:34,820 [-] [pool-116-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 16:54:35,847 [-] [pool-116-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 16:54:35,878 [-] [pool-116-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 16:54:35,879 [-] [pool-116-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 16:54:35,882 [-] [pool-116-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 16:54:57,501 [-] [PassThroughMessageProcessor-28]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 16:54:57,676 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:55:06,632 [-] [PassThroughMessageProcessor-32]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 16:55:06,675 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:55:06,755 [-] [PassThroughMessageProcessor-33] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 16:55:06,756 [-] [PassThroughMessageProcessor-33]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 16:55:06,756 [-] [PassThroughMessageProcessor-33]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 16:56:06,608 [-] [PassThroughMessageProcessor-35]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 16:56:06,647 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 16:56:06,721 [-] [PassThroughMessageProcessor-37] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 16:56:06,721 [-] [PassThroughMessageProcessor-37]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 16:56:06,721 [-] [PassThroughMessageProcessor-37]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 17:04:31,053 [-] [pool-116-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-29 17:04:31,073 [-] [pool-116-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-29 17:05:31,615 [-] [pool-116-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 17:05:31,619 [-] [pool-116-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 17:05:32,642 [-] [pool-116-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 17:05:32,666 [-] [pool-116-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 17:05:32,669 [-] [pool-116-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 17:05:32,674 [-] [pool-116-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 17:05:38,616 [-] [PassThroughMessageProcessor-40]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 17:05:38,665 [-] [jms-Worker-5]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 17:05:38,806 [-] [PassThroughMessageProcessor-41] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 17:05:38,809 [-] [PassThroughMessageProcessor-41]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 17:05:38,809 [-] [PassThroughMessageProcessor-41]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 18:50:26,375 [-] [PassThroughMessageProcessor-44]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 18:50:27,424 [-] [jms-Worker-5]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 18:50:28,741 [-] [PassThroughMessageProcessor-45] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 18:50:28,743 [-] [PassThroughMessageProcessor-45]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 18:50:28,743 [-] [PassThroughMessageProcessor-45]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 18:59:23,909 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-29 18:59:23,942 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-29 18:59:23,951 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-29 19:01:55,483 [-] [pool-113-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 19:01:55,490 [-] [pool-113-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 19:01:56,712 [-] [pool-113-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 19:01:56,744 [-] [pool-113-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 19:01:56,744 [-] [pool-113-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 19:01:56,762 [-] [pool-113-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 19:02:25,891 [-] [PassThroughMessageProcessor-2]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:02:26,103 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:02:26,356 [-] [PassThroughMessageProcessor-4] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:02:26,357 [-] [PassThroughMessageProcessor-4]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:02:26,358 [-] [PassThroughMessageProcessor-4]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:04:29,735 [-] [PassThroughMessageProcessor-6]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:04:29,827 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:04:30,250 [-] [PassThroughMessageProcessor-8] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:04:30,251 [-] [PassThroughMessageProcessor-8]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:04:30,251 [-] [PassThroughMessageProcessor-8]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:05:10,477 [-] [PassThroughMessageProcessor-10]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:05:10,615 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:05:11,034 [-] [PassThroughMessageProcessor-12] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:05:11,034 [-] [PassThroughMessageProcessor-12]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:05:11,035 [-] [PassThroughMessageProcessor-12]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:06:10,767 [-] [PassThroughMessageProcessor-15]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:06:11,030 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:06:11,208 [-] [PassThroughMessageProcessor-17] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:06:11,208 [-] [PassThroughMessageProcessor-17]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:06:11,209 [-] [PassThroughMessageProcessor-17]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:06:53,550 [-] [PassThroughMessageProcessor-19]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:06:53,639 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:06:54,422 [-] [PassThroughMessageProcessor-21] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:06:54,422 [-] [PassThroughMessageProcessor-21]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:06:54,422 [-] [PassThroughMessageProcessor-21]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:07:24,011 [-] [PassThroughMessageProcessor-23]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:07:24,049 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:07:29,956 [-] [PassThroughMessageProcessor-27]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:07:30,030 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:07:30,186 [-] [PassThroughMessageProcessor-29] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:07:30,186 [-] [PassThroughMessageProcessor-29]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:07:30,187 [-] [PassThroughMessageProcessor-29]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:07:38,818 [-] [PassThroughMessageProcessor-31]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:07:38,921 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:07:44,467 [-] [PassThroughMessageProcessor-35]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:07:44,571 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:07:44,588 [-] [PassThroughMessageProcessor-36] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:07:44,589 [-] [PassThroughMessageProcessor-36]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:07:44,590 [-] [PassThroughMessageProcessor-36]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:08:05,488 [-] [PassThroughMessageProcessor-39]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:08:05,586 [-] [jms-Worker-1]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:08:05,762 [-] [PassThroughMessageProcessor-41] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:08:05,763 [-] [PassThroughMessageProcessor-41]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:08:05,763 [-] [PassThroughMessageProcessor-41]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:12:26,062 [-] [pool-113-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-29 19:12:26,114 [-] [pool-113-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-29 19:12:56,336 [-] [pool-113-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 19:12:56,339 [-] [pool-113-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 19:12:57,364 [-] [pool-113-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 19:12:57,405 [-] [pool-113-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 19:12:57,409 [-] [pool-113-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 19:12:57,422 [-] [pool-113-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 19:13:05,007 [-] [PassThroughMessageProcessor-43]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:13:05,111 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:13:05,269 [-] [PassThroughMessageProcessor-45] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:13:05,269 [-] [PassThroughMessageProcessor-45]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:13:05,269 [-] [PassThroughMessageProcessor-45]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:13:09,088 [-] [PassThroughMessageProcessor-47]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:13:09,167 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:13:09,340 [-] [PassThroughMessageProcessor-49] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:13:09,341 [-] [PassThroughMessageProcessor-49]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:13:09,341 [-] [PassThroughMessageProcessor-49]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:13:44,737 [-] [PassThroughMessageProcessor-51]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:13:44,852 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:13:51,968 [-] [PassThroughMessageProcessor-55]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:13:52,001 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:13:56,016 [-] [PassThroughMessageProcessor-59]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:13:56,060 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:13:56,119 [-] [PassThroughMessageProcessor-61] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:13:56,119 [-] [PassThroughMessageProcessor-61]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:13:56,119 [-] [PassThroughMessageProcessor-61]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:14:27,251 [-] [PassThroughMessageProcessor-63]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:14:27,286 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:14:27,330 [-] [PassThroughMessageProcessor-64] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:14:27,331 [-] [PassThroughMessageProcessor-64]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:14:27,331 [-] [PassThroughMessageProcessor-64]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:24:13,031 [-] [PassThroughMessageProcessor-67]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:24:13,082 [-] [jms-Worker-2]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:24:13,166 [-] [PassThroughMessageProcessor-69] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:24:13,166 [-] [PassThroughMessageProcessor-69]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:24:13,167 [-] [PassThroughMessageProcessor-69]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:29:24,395 [-] [pool-113-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-29 19:29:24,431 [-] [pool-113-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-29 19:29:53,647 [-] [pool-113-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 19:29:53,647 [-] [pool-113-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 19:29:54,666 [-] [pool-113-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 19:29:54,698 [-] [pool-113-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 19:29:54,698 [-] [pool-113-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 19:29:54,713 [-] [pool-113-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 19:30:00,661 [-] [PassThroughMessageProcessor-71]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:30:00,693 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:30:00,809 [-] [PassThroughMessageProcessor-73] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:30:00,809 [-] [PassThroughMessageProcessor-73]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:30:00,809 [-] [PassThroughMessageProcessor-73]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:30:45,334 [-] [PassThroughMessageProcessor-75]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:30:45,378 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:30:45,545 [-] [PassThroughMessageProcessor-77] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:30:45,545 [-] [PassThroughMessageProcessor-77]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:30:45,545 [-] [PassThroughMessageProcessor-77]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:30:58,651 [-] [PassThroughMessageProcessor-79]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:30:58,680 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:30:58,800 [-] [PassThroughMessageProcessor-81] ERROR SMSForwardProxy Runtime error occurred while mediating the message
+java.lang.NullPointerException
+	at org.apache.axis2.transport.jms.JMSSender.sendMessage(JMSSender.java:151)
+	at org.apache.axis2.transport.base.AbstractTransportSender.invoke(AbstractTransportSender.java:119)
+	at org.apache.axis2.engine.AxisEngine.send(AxisEngine.java:442)
+	at org.apache.synapse.core.axis2.Axis2Sender.sendBack(Axis2Sender.java:230)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.send(Axis2SynapseEnvironment.java:531)
+	at org.apache.synapse.mediators.builtin.SendMediator.mediate(SendMediator.java:118)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:97)
+	at org.apache.synapse.mediators.AbstractListMediator.mediate(AbstractListMediator.java:59)
+	at org.apache.synapse.mediators.base.SequenceMediator.mediate(SequenceMediator.java:158)
+	at org.apache.synapse.core.axis2.Axis2SynapseEnvironment.injectMessage(Axis2SynapseEnvironment.java:337)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.handleMessage(SynapseCallbackReceiver.java:554)
+	at org.apache.synapse.core.axis2.SynapseCallbackReceiver.receive(SynapseCallbackReceiver.java:188)
+	at org.apache.axis2.engine.AxisEngine.receive(AxisEngine.java:180)
+	at org.apache.synapse.transport.passthru.ClientWorker.run(ClientWorker.java:262)
+	at org.apache.axis2.transport.base.threads.NativeWorkerPool$1.run(NativeWorkerPool.java:172)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-11-29 19:30:58,804 [-] [PassThroughMessageProcessor-81]  WARN SMSForwardProxy ERROR_CODE : 0 ERROR_MESSAGE : Runtime error occurred while mediating the message
+2017-11-29 19:30:58,804 [-] [PassThroughMessageProcessor-81]  WARN SMSForwardProxy Executing fault sequence mediator : org.apache.synapse.mediators.base.SequenceMediator
+2017-11-29 19:31:03,525 [-] [PassThroughMessageProcessor-83]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:31:03,554 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:31:13,707 [-] [PassThroughMessageProcessor-87]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:31:13,746 [-] [jms-Worker-3]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:56:29,139 [-] [pool-113-thread-1]  INFO SMSForwardProxy Stopped the proxy service : SMSForwardProxy
+2017-11-29 19:56:29,188 [-] [pool-113-thread-1]  INFO SMSSenderProxy Stopped the proxy service : SMSSenderProxy
+2017-11-29 19:56:59,161 [-] [pool-113-thread-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-29 19:56:59,162 [-] [pool-113-thread-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-29 19:57:00,192 [-] [pool-113-thread-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-29 19:57:00,226 [-] [pool-113-thread-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-29 19:57:00,231 [-] [pool-113-thread-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-29 19:57:00,237 [-] [pool-113-thread-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-29 19:57:10,081 [-] [PassThroughMessageProcessor-91]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:57:10,164 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:57:14,146 [-] [PassThroughMessageProcessor-95]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:57:14,199 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:57:15,567 [-] [PassThroughMessageProcessor-99]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:57:15,671 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:57:20,374 [-] [PassThroughMessageProcessor-103]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:57:20,419 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:57:27,833 [-] [PassThroughMessageProcessor-107]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:57:27,854 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:57:31,423 [-] [PassThroughMessageProcessor-111]  INFO SMSSenderProxy checkvalue----------------> = async
+2017-11-29 19:57:31,500 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-29 19:57:38,905 [-] [PassThroughMessageProcessor-115]  INFO SMSSenderProxy checkvalue----------------> = sync
+2017-11-29 19:57:38,933 [-] [jms-Worker-4]  INFO SMSForwardProxy text----------------> = viswanadh
+2017-11-30 18:53:44,771 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-30 18:53:44,865 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-30 18:53:44,886 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-30 18:54:12,314 [-] [localhost-startStop-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-30 18:54:12,316 [-] [localhost-startStop-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-30 18:55:16,097 [-] [localhost-startStop-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-30 18:55:16,157 [-] [localhost-startStop-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-30 18:55:16,157 [-] [localhost-startStop-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-30 18:55:16,164 [-] [localhost-startStop-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-30 19:44:18,227 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-30 19:44:18,258 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-30 19:44:18,258 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-30 19:44:37,226 [-] [localhost-startStop-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-30 19:44:37,226 [-] [localhost-startStop-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-30 19:44:38,466 [-] [localhost-startStop-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-30 19:44:38,498 [-] [localhost-startStop-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-30 19:44:38,499 [-] [localhost-startStop-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-30 19:44:38,500 [-] [localhost-startStop-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-30 19:51:51,274 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-30 19:51:51,301 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-30 19:51:51,303 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-30 19:52:15,855 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-30 19:52:15,855 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-30 19:52:17,281 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-30 19:52:17,426 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-30 19:52:17,426 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-30 19:52:17,428 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-11-30 20:22:48,243 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-11-30 20:22:48,274 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-11-30 20:22:48,274 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-11-30 20:23:09,767 [-] [localhost-startStop-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-11-30 20:23:09,767 [-] [localhost-startStop-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-11-30 20:23:11,155 [-] [localhost-startStop-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-11-30 20:23:11,195 [-] [localhost-startStop-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-11-30 20:23:11,195 [-] [localhost-startStop-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-11-30 20:23:11,195 [-] [localhost-startStop-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-01 08:14:21,643 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-01 08:14:21,712 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-01 08:14:21,714 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-01 08:14:51,766 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-01 08:14:51,767 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-01 08:14:53,029 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-01 08:14:53,052 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-01 08:14:53,054 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-01 08:14:53,055 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-01 08:43:28,560 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-01 08:43:28,591 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-01 08:43:28,591 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-01 08:43:47,274 [-] [localhost-startStop-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-01 08:43:47,306 [-] [localhost-startStop-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-01 08:43:48,522 [-] [localhost-startStop-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-01 08:43:48,577 [-] [localhost-startStop-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-01 08:43:48,579 [-] [localhost-startStop-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-01 08:43:48,581 [-] [localhost-startStop-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-01 13:05:42,293 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-01 13:05:42,341 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-01 13:05:42,346 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-01 13:06:10,226 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-01 13:06:10,243 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-01 13:06:11,676 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-01 13:06:11,720 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-01 13:06:11,722 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-01 13:06:11,726 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-01 13:49:16,130 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-01 13:49:16,150 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-01 13:49:16,154 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-01 13:49:28,036 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-01 13:49:28,038 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-01 13:49:29,273 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-01 13:49:29,282 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-01 13:49:29,283 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-01 13:49:29,285 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-01 15:29:49,473 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-01 15:29:49,506 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-01 15:29:49,513 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-01 15:30:04,317 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-01 15:30:04,318 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-01 15:30:05,534 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-01 15:30:05,546 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-01 15:30:05,553 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-01 15:30:05,556 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-01 16:09:51,085 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-01 16:09:51,136 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-01 16:09:51,188 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-01 16:10:07,401 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-01 16:10:07,402 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-01 16:10:08,736 [-] [Framework Event Dispatcher]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-01 16:10:08,746 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-01 16:10:08,746 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-01 16:10:08,757 [-] [Framework Event Dispatcher]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-02 10:34:03,938 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-02 10:34:03,965 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-02 10:34:03,972 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-02 10:34:14,317 [-] [localhost-startStop-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-02 10:34:14,360 [-] [localhost-startStop-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-02 10:35:17,742 [-] [localhost-startStop-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-02 10:35:17,766 [-] [localhost-startStop-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-02 10:35:17,771 [-] [localhost-startStop-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-02 10:35:17,780 [-] [localhost-startStop-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-02 10:38:32,155 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-02 10:38:32,178 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-02 10:38:32,183 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-02 10:38:41,370 [-] [localhost-startStop-1]  INFO SMSForwardProxy Building Axis service for Proxy service : SMSForwardProxy
+2017-12-02 10:38:41,402 [-] [localhost-startStop-1]  INFO SMSForwardProxy Adding service SMSForwardProxy to the Axis2 configuration
+2017-12-02 10:38:42,733 [-] [localhost-startStop-1]  INFO SMSForwardProxy Successfully created the Axis2 service for Proxy service : SMSForwardProxy
+2017-12-02 10:38:42,743 [-] [localhost-startStop-1]  INFO SMSSenderProxy Building Axis service for Proxy service : SMSSenderProxy
+2017-12-02 10:38:42,746 [-] [localhost-startStop-1]  INFO SMSSenderProxy Adding service SMSSenderProxy to the Axis2 configuration
+2017-12-02 10:38:42,755 [-] [localhost-startStop-1]  INFO SMSSenderProxy Successfully created the Axis2 service for Proxy service : SMSSenderProxy
+2017-12-02 12:30:28,440 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-02 12:30:28,465 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-02 12:30:28,476 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-02 13:55:25,741 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-02 13:55:25,828 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-02 13:55:25,873 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-02 18:54:23,213 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-02 18:54:23,267 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-02 18:54:23,280 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-02 19:19:23,726 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-02 19:19:23,749 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-02 19:19:23,756 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 11:36:54,071 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 11:36:54,118 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 11:36:54,133 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 12:02:47,856 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 12:02:47,901 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 12:02:47,910 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 12:39:56,722 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 12:39:56,759 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 12:39:56,765 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 13:55:25,938 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 13:55:26,005 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 13:55:26,069 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 14:07:05,558 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 14:07:05,643 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 14:07:05,647 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 17:23:57,553 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 17:23:58,093 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 17:23:58,101 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 18:01:10,803 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 18:01:10,866 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 18:01:10,866 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 18:29:47,802 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 18:29:47,849 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 18:29:47,849 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-03 19:39:43,195 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-03 19:39:43,226 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-03 19:39:43,226 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-04 11:50:04,877 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-04 11:50:04,955 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-04 11:50:04,955 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-06 19:54:53,029 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-06 19:54:53,105 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-06 19:54:53,110 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService

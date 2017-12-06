@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="v1_constructerrorResponse" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+  <log level="custom">
+    <property name="Error------------->" value="------------Error--------------"/>
+  </log>
+  <property expression="get-property('handlerError')"
+    name="handlerError----->" scope="default" type="STRING"/>
+  <switch source="get-property('reason')">
+    <case regex="^Logon\sFailed.*$">
+      <property description="apiResourcePathtrouble"
+        expression="$ctx:REST_SUB_REQUEST_PATH"
+        name="apiResourcePathtrouble" scope="default" type="STRING"/>
+      <filter regex="^/password/update*$" source="get-property('apiResourcePathtrouble')">
+        <then>
+          <payloadFactory media-type="json">
+            <format>
+	{
+    "errList": [
+        {
+            "errMsg": "Logon Failed. Invalid Credentials",
+            "errLvl": "ERROR",
+            "errCode": "701000"
+        }
+    ]
+}
+				</format>
+            <args/>
+          </payloadFactory>
+        </then>
+        <else>
+          <payloadFactory media-type="json">
+            <format>
+	{
+    "errList": [
+        {
+            "errMsg": "Logon Failed. Invalid Credentials",
+            "errLvl": "ERROR",
+            "errCode": "701000"
+        }
+    ]
+}
+				</format>
+            <args/>
+          </payloadFactory>
+        </else>
+      </filter>
+    </case>
+    <case regex="^.*User\sis\sLocked.*$">
+      <property description="apiResourcePathtrouble"
+        expression="$ctx:REST_SUB_REQUEST_PATH"
+        name="apiResourcePathtrouble" scope="default" type="STRING"/>
+      <filter regex="^/password/update*$" source="get-property('apiResourcePathtrouble')">
+        <then>
+          <payloadFactory media-type="json">
+            <format>
+	{
+    "errList": [
+        {
+            "errMsg": "Password change attempts exceeded. User is locked. Please Contact Help Desk at 844 Hey Somos",
+            "errLvl": "ERROR",
+            "errCode": "702003"
+        }
+    ]
+}
+				</format>
+            <args/>
+          </payloadFactory>
+        </then>
+        <else>
+          <payloadFactory media-type="json">
+            <format>
+	{
+    "errList": [
+        {
+            "errMsg": "Login Failed. User is Locked Contact the Help Desk for Assistance",
+            "errLvl": "ERROR",
+            "errCode": "701001"
+        }
+    ]
+}
+				</format>
+            <args/>
+          </payloadFactory>
+        </else>
+      </filter>
+    </case>
+    <case regex="^Missing Mandatory parameter*$">
+      <payloadFactory media-type="json">
+        <format>
+	{
+    "errList": [
+        {
+            "errMsg": "Missing Mandatory parameter",
+            "errLvl": "ERROR",
+            "errCode": "099027"
+        }
+    ]
+}
+				</format>
+        <args/>
+      </payloadFactory>
+    </case>
+    <default>
+      <payloadFactory media-type="json">
+        <format>
+	{
+    "errList": [
+        {
+            "errMsg": "$1",
+            "errLvl": "ERROR",
+            "errCode": ""
+        }
+    ]
+}
+				</format>
+        <args>
+          <arg evaluator="xml" expression="get-property('reason')"/>
+        </args>
+      </payloadFactory>
+    </default>
+  </switch>
+  <respond/>
+</sequence>

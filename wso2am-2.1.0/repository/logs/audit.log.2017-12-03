@@ -1,0 +1,15 @@
+[2017-12-03 12:04:07,034]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 12:04:07,032+0530] 
+[2017-12-03 12:04:27,203]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 12:04:27,198+0530] 
+[2017-12-03 12:05:08,415]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 12:05:08,383+0530] 
+[2017-12-03 19:46:09,902]  INFO -  {"performedBy":"admin","action":"created","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"testAPI\",\"context\":\"\\\/v1\\\/ip\\\/testAPI\",\"version\":\"v1\"}"} 
+[2017-12-03 19:46:11,916]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:46:11,915+0530] 
+[2017-12-03 19:46:12,691]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"testAPI\",\"context\":\"\\\/v1\\\/ip\\\/testAPI\",\"version\":\"v1\"}"} 
+[2017-12-03 19:46:12,795]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:46:12,795+0530] 
+[2017-12-03 19:46:37,082]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:46:37,065+0530] 
+[2017-12-03 19:46:37,362]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"testAPI\",\"context\":\"\\\/v1\\\/ip\\\/testAPI\",\"version\":\"v1\"}"} 
+[2017-12-03 19:46:37,497]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:46:37,497+0530] 
+[2017-12-03 19:47:41,822]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:47:41,822+0530] 
+[2017-12-03 19:47:42,346]  INFO -  {"performedBy":"admin","action":"updated","typ":"API","info":"{\"provider\":\"admin\",\"name\":\"testAPI\",\"context\":\"\\\/v1\\\/ip\\\/testAPI\",\"version\":\"v1\"}"} 
+[2017-12-03 19:47:42,440]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:47:42,440+0530] 
+[2017-12-03 19:47:42,772]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:47:42,771+0530] 
+[2017-12-03 19:47:43,295]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-12-03 19:47:43,293+0530] 

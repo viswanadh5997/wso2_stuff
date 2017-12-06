@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="v1_bulkservicePUT" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+  <property expression="$ctx:REST_FULL_REQUEST_PATH" name="apiName"
+    scope="default" type="STRING"/>
+  <property expression="get-property('axis2', 'HTTP_METHOD')"
+    name="requestType" scope="default" type="STRING"/>
+  <property expression="json-eval($cmd)" name="cmd" scope="default" type="STRING"/>
+  <property
+    expression="fn:concat(get-property('apiName'),'/' ,'request')"
+    name="apiName" scope="default" type="STRING"/>
+  <filter regex="^(400)$" source="get-property('error_code')">
+    <then/>
+    <else>
+      <property expression="json-eval($.)" name="jsonPayload"
+        scope="default" type="STRING"/>
+      <property name="commonSchema" scope="default" type="STRING" value="commonDefs,recordDefs"/>
+      <class name="com.somos.custom.schemavalidation.ValidateJson"/>
+    </else>
+  </filter>
+  <filter regex="true" source="get-property('status')">
+    <then>
+      <sequence key="gov:com/somos/services/v1/ip/bulkservice/sequences/v1_bulkserviceError.xml"/>
+    </then>
+    <else/>
+  </filter>
+</sequence>

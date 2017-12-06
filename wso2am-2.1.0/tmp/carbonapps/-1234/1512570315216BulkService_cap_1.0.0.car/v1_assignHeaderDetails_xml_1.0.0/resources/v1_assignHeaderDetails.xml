@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="v1_assignHeaderDetails" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+  <class name="com.somos.custom.idgeneration.GenerateCorrelationID"/>
+  <property expression="$ctx:api.ut.userName" name="sessionIDFromWso2"
+    scope="transport" type="STRING"/>
+  <property expression="json-eval($usrName)" name="sessionIDFromInput"
+    scope="default" type="STRING"/>
+  <filter regex="null" source="get-property('sessionIDFromInput')">
+    <then>
+      <header
+        expression="fn:concat(get-property('sessionIDFromWso2'), $ctx:api.ut.userName)"
+        name="sessionID" scope="transport"/>
+      <log level="custom">
+        <property expression="$ctx:api.ut.userName" name="sessionID"/>
+      </log>
+    </then>
+    <else>
+      <header
+        expression="fn:concat(get-property('sessionIDFromInput'), $ctx:api.ut.userName)"
+        name="sessionID" scope="transport"/>
+      <log level="custom">
+        <property
+          expression="fn:concat(get-property('sessionIDFromInput'), $ctx:api.ut.userName)" name="sessionID"/>
+      </log>
+    </else>
+  </filter>
+  <property expression="$ctx:REST_FULL_REQUEST_PATH" name="apiName"
+    scope="default" type="STRING"/>
+  <property expression="get-property('REST_FULL_REQUEST_PATH')"
+    name="requestURI" scope="default" type="STRING"/>
+  <property expression="$ctx:api.ut.userName" name="sessionID"
+    scope="default" type="STRING"/>
+  <property
+    expression="fn:concat($ctx:api.ut.hostName,'::' ,get-property('corelationID'))"
+    name="correlationID" scope="default" type="STRING"/>
+  <property expression="get-property('environmentIDGlobal')"
+    name="environmentID" scope="default" type="STRING"/>
+  <header expression="get-property('environmentID')"
+    name="environmentID" scope="transport"/>
+  <header expression="get-property('correlationID')"
+    name="correlationID" scope="transport"/>
+  <log level="custom">
+    <property expression="get-property('environmentID')" name="environmentID"/>
+    <property expression="get-property('requestURI')" name="requestURI"/>
+    <property expression="get-property('correlationID')" name="correlationID"/>
+  </log>
+  <!--  
+  <dbreport>
+    <connection>
+      <pool>
+        <dsName>jdbc/WSO2AM_STATS_DB</dsName>
+      </pool>
+    </connection>
+    <statement>
+      <sql><![CDATA[insert into api_resource_stats(requestURI,correlationID,username,create_date) values(?,?,?,sysdate)]]></sql>
+      <parameter expression="get-property('requestURI')" type="VARCHAR"/>
+      <parameter expression="get-property('correlationID')" type="VARCHAR"/>
+      <parameter
+        expression="fn:concat(get-property('sessionIDFromInput'), $ctx:api.ut.userName)" type="VARCHAR"/>
+    </statement>
+  </dbreport>
+  
+  -->
+</sequence>

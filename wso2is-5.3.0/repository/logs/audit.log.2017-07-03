@@ -1,0 +1,53 @@
+[2017-07-03 16:50:53,989] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:50:53,0985] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:51:08,090] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:51:08,0089] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:51:11,296]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:51:11,295+0530] 
+[2017-07-03 16:51:35,099] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:51:35,0098] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:51:35,726]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:51:35,721+0530] 
+[2017-07-03 16:51:50,974] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:51:50,0973] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:51:51,827]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:51:51,826+0530] 
+[2017-07-03 16:52:52,262]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:52:52,261+0530] 
+[2017-07-03 16:53:43,520] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:53:43,0519] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:53:44,214]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:53:44,212+0530] 
+[2017-07-03 16:54:18,839] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:54:18,0839] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:54:19,500]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:54:19,499+0530] 
+[2017-07-03 16:55:01,277] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:55:01,0275] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:55:02,014]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:55:02,013+0530] 
+[2017-07-03 16:55:24,746] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:55:24,0745] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:55:40,228] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 16:55:40,0227] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 16:55:40,857]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 16:55:40,856+0530] 
+[2017-07-03 17:08:36,541]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:08:36,537+0530] 
+[2017-07-03 17:09:52,284]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:09:52,283+0530] 
+[2017-07-03 17:09:53,077]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:09:53,076+0530] 
+[2017-07-03 17:11:02,622]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:11:02,622+0530] 
+[2017-07-03 17:17:11,214]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:17:11,211+0530] 
+[2017-07-03 17:21:53,076] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 17:21:53,0068] from IP address null while trying to authenticate access to service ClaimMetadataManagementService 
+[2017-07-03 17:22:02,484]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:22:02,482+0530] 
+[2017-07-03 17:22:19,532]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:22:19,531+0530] 
+[2017-07-03 17:23:06,559] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 17:23:06,0555] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 17:23:07,355]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:23:07,354+0530] 
+[2017-07-03 17:24:06,333] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 17:24:06,0332] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 17:24:07,311]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:24:07,311+0530] 
+[2017-07-03 17:24:20,408] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 17:24:20,0407] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 17:24:21,138]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:24:21,137+0530] 
+[2017-07-03 17:24:34,157] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 17:24:34,0155] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 17:24:34,969]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:24:34,968+0530] 
+[2017-07-03 17:28:09,850]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:28:09,839+0530] 
+[2017-07-03 17:28:50,046]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:28:50,045+0530] 
+[2017-07-03 17:30:24,354]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:30:24,351+0530] 
+[2017-07-03 17:31:21,239]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:31:21,238+0530] 
+[2017-07-03 17:32:55,817]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:32:55,814+0530] 
+[2017-07-03 17:33:41,383]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:33:41,382+0530] 
+[2017-07-03 17:33:58,356]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:33:58,353+0530] 
+[2017-07-03 17:34:11,804]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:34:11,803+0530] 
+[2017-07-03 17:43:37,838] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 17:43:37,0834] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 17:43:39,727]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:43:39,727+0530] 
+[2017-07-03 17:43:55,597] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-03 17:43:55,0596] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-03 17:43:56,359]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:43:56,358+0530] 
+[2017-07-03 17:46:43,772]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:46:43,768+0530] 
+[2017-07-03 17:47:50,150]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:47:50,144+0530] 
+[2017-07-03 17:48:40,412]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:48:40,411+0530] 
+[2017-07-03 17:49:05,020]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:49:05,020+0530] 
+[2017-07-03 17:49:46,182]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:49:46,182+0530] 
+[2017-07-03 17:50:05,999]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 17:50:05,998+0530] 
+[2017-07-03 18:32:14,762]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 18:32:14,756+0530] 
+[2017-07-03 18:32:34,884]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-03 18:32:34,883+0530] 

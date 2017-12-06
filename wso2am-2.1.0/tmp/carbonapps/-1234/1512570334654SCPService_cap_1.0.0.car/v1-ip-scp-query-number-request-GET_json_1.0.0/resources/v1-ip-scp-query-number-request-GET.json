@@ -1,0 +1,16 @@
+{
+	 "$schema": "http://json-schema.org/draft-04/schema#",
+	 "description": "GET Request /ip/scp/query/number?recNum={recNum}&effDtTm={effDtTm}",
+	 "type": "object",
+	 "definitions": {
+		 "recNum": {
+			 "$ref": "commonDefs.json#/definitions/tfNum"
+		},
+		  "effDtTm": {
+			 "$ref": "recordDefs.json#/definitions/effDt"
+		}
+	},
+	 "required": [
+		"recNum"
+	]
+}

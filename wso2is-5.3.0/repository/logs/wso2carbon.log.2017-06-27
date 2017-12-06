@@ -1,0 +1,18 @@
+TID: [-1234] [] [2017-06-27 11:21:32,032]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 11:21:32,031+0530] 
+TID: [-1234] [] [2017-06-27 11:43:51,947]  WARN {org.wso2.carbon.server.admin.module.handler.AuthenticationHandler} -  Illegal access attempt at [2017-06-27 11:43:51,0947] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+TID: [-1234] [] [2017-06-27 11:43:52,752]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 11:43:52,752+0530] 
+TID: [-1234] [] [2017-06-27 13:40:00,903]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 13:40:00,902+0530] 
+TID: [-1234] [] [2017-06-27 13:40:49,137]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 13:40:49,137+0530] 
+TID: [-1234] [] [2017-06-27 13:41:31,440]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 13:41:31,440+0530] from IP address  
+TID: [-1234] [] [2017-06-27 13:41:32,451]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 13:41:32,451+0530] 
+TID: [-1234] [] [2017-06-27 13:41:32,934]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 13:41:32,934+0530] 
+TID: [-1234] [] [2017-06-27 14:41:57,157]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 14:41:57,156+0530] 
+TID: [-1234] [] [2017-06-27 14:42:28,842]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 14:42:28,842+0530] 
+TID: [-1234] [] [2017-06-27 15:01:32,362]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 15:01:32,361+0530] from IP address  
+TID: [-1234] [] [2017-06-27 15:01:32,631] ERROR {org.wso2.carbon.apimgt.impl.AMDefaultKeyManagerImpl} -  Invalid OAuth Token : Access token expired 
+TID: [-1234] [] [2017-06-27 15:03:49,347]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 15:03:49,347+0530] 
+TID: [-1234] [] [2017-06-27 15:04:31,700]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 15:04:31,700+0530] 
+TID: [-1234] [] [2017-06-27 15:04:32,192]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 15:04:32,192+0530] 
+TID: [-1234] [] [2017-06-27 15:05:51,836]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 15:05:51,836+0530] 
+TID: [-1234] [] [2017-06-27 15:43:29,828]  INFO {org.wso2.carbon.core.services.util.CarbonAuthenticationUtil} -  'admin@carbon.super [-1234]' logged in at [2017-06-27 15:43:29,828+0530] 
+TID: [-1] [] [2017-06-27 18:55:41,959]  INFO {org.wso2.carbon.identity.application.authentication.framework.store.OperationCleanUpService} -  Session Operation Data cleanup task is running successfully for removing expired Operation Data 

@@ -1,0 +1,122 @@
+[2017-07-07 00:06:16,006]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 00:06:15,941+0530] 
+[2017-07-07 00:06:18,420]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 00:06:18,376+0530] 
+[2017-07-07 08:49:34,559]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 08:49:34,419+0530] 
+[2017-07-07 08:49:40,768]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 08:49:40,767+0530] 
+[2017-07-07 11:01:23,513] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 11:01:23,0489] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 11:01:28,126]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:01:28,125+0530] 
+[2017-07-07 11:01:28,421]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Change Password by Administrator | Target : viswanadh | Data : {  } | Result : Success  
+[2017-07-07 11:03:10,819]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:03:10,817+0530] 
+[2017-07-07 11:03:22,550]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:03:22,549+0530] 
+[2017-07-07 11:03:33,128]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:03:33,127+0530] 
+[2017-07-07 11:04:15,826]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:04:15,826+0530] 
+[2017-07-07 11:04:17,808]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:04:17,807+0530] 
+[2017-07-07 11:04:18,746]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:04:18,744+0530] 
+[2017-07-07 11:04:19,604]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:04:19,603+0530] 
+[2017-07-07 11:07:02,639] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 11:07:02,0635] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 11:07:03,849]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:07:03,848+0530] 
+[2017-07-07 11:07:22,304]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:07:22,302+0530] 
+[2017-07-07 11:18:29,630]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:18:29,625+0530] 
+[2017-07-07 11:18:31,420]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:18:31,419+0530] 
+[2017-07-07 11:28:35,358] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 11:28:35,0354] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 11:28:36,800]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:28:36,799+0530] 
+[2017-07-07 11:30:30,113] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 11:30:30,0110] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 11:30:31,289]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:30:31,289+0530] 
+[2017-07-07 11:30:39,655]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:30:39,654+0530] 
+[2017-07-07 11:30:41,498]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:30:41,496+0530] 
+[2017-07-07 11:30:42,281]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:30:42,280+0530] 
+[2017-07-07 11:55:21,706] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 11:55:21,0691] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 11:55:23,498]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:55:23,496+0530] 
+[2017-07-07 11:55:37,226]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:55:37,225+0530] 
+[2017-07-07 11:55:39,055]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:55:39,054+0530] 
+[2017-07-07 11:55:41,048]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:55:41,046+0530] 
+[2017-07-07 11:55:41,881]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:55:41,881+0530] 
+[2017-07-07 11:55:43,288]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 11:55:43,287+0530] 
+[2017-07-07 12:12:55,937]  INFO {AUDIT_LOG}-  Initiator : admin | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "7c9bd7b2-6a9b-4b49-9d03-202626311258","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "API_PUBLISHER_TEMP","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2017-07-07 12:12:56,334]  INFO {AUDIT_LOG}-  Initiator : admin | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "7c9bd7b2-6a9b-4b49-9d03-202626311258","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "carbon.super","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDk5NDA5Nzc1OTM3MzAwMCwiaWF0IjoxNDk5NDA5Nzc1OTM3LCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-07-07 12:13:10,956]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:13:10,939+0530] 
+[2017-07-07 12:13:13,359]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:13:13,359+0530] 
+[2017-07-07 12:13:15,164]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:13:15,163+0530] 
+[2017-07-07 12:13:16,245]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:13:16,245+0530] 
+[2017-07-07 12:13:17,139]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:13:17,139+0530] 
+[2017-07-07 12:34:07,138]  INFO {AUDIT_LOG}-  Initiator : admin | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "e0997317-0682-4cca-b22a-5224c2e6e58d","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "API_PUBLISHER_TEMP","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2017-07-07 12:34:07,368]  INFO {AUDIT_LOG}-  Initiator : admin | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "e0997317-0682-4cca-b22a-5224c2e6e58d","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "carbon.super","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDk5NDExMDQ3MTM4MzAwMCwiaWF0IjoxNDk5NDExMDQ3MTM4LCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-07-07 12:42:20,402]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:42:20,386+0530] 
+[2017-07-07 12:42:30,664]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:42:30,663+0530] 
+[2017-07-07 12:43:48,893]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:43:48,889+0530] 
+[2017-07-07 12:43:50,974]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 12:43:50,974+0530] 
+[2017-07-07 13:24:51,032]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:24:51,002+0530] 
+[2017-07-07 13:24:53,010]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:24:53,009+0530] 
+[2017-07-07 13:24:54,985]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:24:54,984+0530] 
+[2017-07-07 13:32:04,417]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'viswanadh[-1234]' at [2017-07-07 13:32:04,351+0530] 
+[2017-07-07 13:33:01,152]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:33:01,143+0530] 
+[2017-07-07 13:33:02,244]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:33:02,243+0530] 
+[2017-07-07 13:34:28,778] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:34:28,0757] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 13:34:30,481]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:34:30,480+0530] 
+[2017-07-07 13:34:35,400]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:34:35,400+0530] 
+[2017-07-07 13:34:37,068]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:34:37,067+0530] 
+[2017-07-07 13:36:14,440] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:36:14,0388] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:36:15,510]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:36:15,507+0530] 
+[2017-07-07 13:36:44,542]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:36:44,541+0530] 
+[2017-07-07 13:36:45,273]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:36:45,273+0530] 
+[2017-07-07 13:37:06,234] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:37:06,0233] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 13:37:06,718]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:37:06,717+0530] 
+[2017-07-07 13:37:38,753]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:37:38,752+0530] 
+[2017-07-07 13:37:40,529]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:37:40,529+0530] 
+[2017-07-07 13:37:41,458]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:37:41,457+0530] 
+[2017-07-07 13:37:42,168]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:37:42,167+0530] 
+[2017-07-07 13:43:34,220]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:43:34,219+0530] 
+[2017-07-07 13:43:37,042]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:43:37,040+0530] 
+[2017-07-07 13:43:39,070]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:43:39,069+0530] 
+[2017-07-07 13:44:25,530] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:44:25,0525] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 13:44:26,217]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:44:26,217+0530] 
+[2017-07-07 13:44:45,223]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:44:45,221+0530] 
+[2017-07-07 13:44:45,982]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:44:45,982+0530] 
+[2017-07-07 13:45:00,827] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:45:00,0823] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 13:45:01,516]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:45:01,512+0530] 
+[2017-07-07 13:45:15,605]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:45:15,604+0530] 
+[2017-07-07 13:45:17,181]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:45:17,180+0530] 
+[2017-07-07 13:45:36,401]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:45:36,400+0530] 
+[2017-07-07 13:45:37,138]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:45:37,137+0530] 
+[2017-07-07 13:46:08,297] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:46:08,0296] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 13:46:08,981]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:46:08,980+0530] 
+[2017-07-07 13:48:12,090] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:48:12,0087] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:48:13,529]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:48:13,528+0530] 
+[2017-07-07 13:48:20,231] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:48:20,0230] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:48:21,044]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:48:21,043+0530] 
+[2017-07-07 13:49:10,163]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:49:10,162+0530] 
+[2017-07-07 13:49:12,403]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:49:12,402+0530] 
+[2017-07-07 13:49:13,136]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:49:13,135+0530] 
+[2017-07-07 13:49:14,001]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:49:14,000+0530] 
+[2017-07-07 13:50:18,050] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:50:18,0048] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:50:19,209]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:50:19,208+0530] 
+[2017-07-07 13:50:37,962] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:50:37,0960] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:50:38,942]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:50:38,942+0530] 
+[2017-07-07 13:51:20,252] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:51:20,0251] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:51:21,246]  INFO {AUDIT_LOG}-  'viswanadh@carbon.super [-1234]' logged in at [2017-07-07 13:51:21,245+0530] 
+[2017-07-07 13:51:59,273]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:51:59,273+0530] 
+[2017-07-07 13:52:00,976]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:52:00,975+0530] 
+[2017-07-07 13:52:01,897]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:52:01,897+0530] 
+[2017-07-07 13:52:02,605]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:52:02,604+0530] 
+[2017-07-07 13:52:29,998] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:52:29,0996] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:52:30,935]  INFO {AUDIT_LOG}-  'viswanadh@carbon.super [-1234]' logged in at [2017-07-07 13:52:30,935+0530] 
+[2017-07-07 13:53:07,976] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:53:07,0975] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:53:08,618]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:53:08,613+0530] 
+[2017-07-07 13:55:03,312] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 13:55:03,0307] from IP address 127.0.0.1 while trying to authenticate access to service RemoteUserStoreManagerService 
+[2017-07-07 13:55:04,569]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 13:55:04,569+0530] 
+[2017-07-07 15:13:35,205]  INFO {AUDIT_LOG}-  Initiator : admin | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "a9b7f144-c1ef-499d-b531-8b48aebe285d","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "API_PUBLISHER_TEMP","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2017-07-07 15:13:35,703]  INFO {AUDIT_LOG}-  Initiator : admin | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "a9b7f144-c1ef-499d-b531-8b48aebe285d","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "carbon.super","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDk5NDIwNjE1MjMwMzAwMCwiaWF0IjoxNDk5NDIwNjE1MjMwLCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-07-07 15:15:55,133]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:15:55,115+0530] 
+[2017-07-07 15:22:17,439]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:22:17,410+0530] 
+[2017-07-07 15:22:20,728]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:22:20,728+0530] 
+[2017-07-07 15:34:14,058]  INFO {AUDIT_LOG}-  Initiator : admin | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "7a9d7ea3-fb3f-4308-bb1c-3dce6cc164cd","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "API_PUBLISHER_TEMP","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2017-07-07 15:34:14,244]  INFO {AUDIT_LOG}-  Initiator : admin | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "7a9d7ea3-fb3f-4308-bb1c-3dce6cc164cd","AuthenticatedUser" : "admin","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "carbon.super","RequestType" : "samlsso","RelyingParty" : "API_PUBLISHER_TEMP","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNDk5NDIxODU0MDU4MzAwMCwiaWF0IjoxNDk5NDIxODU0MDU4LCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  
+[2017-07-07 15:35:27,901]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:35:27,872+0530] 
+[2017-07-07 15:36:48,192]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:36:48,192+0530] 
+[2017-07-07 15:36:59,929]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:36:59,928+0530] 
+[2017-07-07 15:37:12,012]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:37:12,011+0530] 
+[2017-07-07 15:38:21,851]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:38:21,848+0530] 
+[2017-07-07 15:38:35,012]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:38:35,011+0530] 
+[2017-07-07 15:43:58,012] ERROR {AUDIT_LOG}-  Illegal access attempt at [2017-07-07 15:43:57,0993] from IP address 127.0.0.1 while trying to authenticate access to service UserIdentityManagementAdminService 
+[2017-07-07 15:43:58,989]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:43:58,988+0530] 
+[2017-07-07 15:44:10,337]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:44:10,336+0530] 
+[2017-07-07 15:44:20,406]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2017-07-07 15:44:20,405+0530] 

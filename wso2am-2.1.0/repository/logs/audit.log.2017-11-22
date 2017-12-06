@@ -1,0 +1,19 @@
+[2017-11-22 13:07:27,128]  INFO -  {"performedBy":"S.COM\/admin","action":"created","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"Bulkservice\",\"context\":\"\\\/v1\\\/ip\\\/sys\",\"version\":\"v1\"}"} 
+[2017-11-22 13:07:28,297]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:07:28,295+0530] 
+[2017-11-22 13:07:34,294]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"Bulkservice\",\"context\":\"\\\/v1\\\/ip\\\/sys\",\"version\":\"v1\"}"} 
+[2017-11-22 13:07:34,498]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:07:34,494+0530] 
+[2017-11-22 13:08:51,226]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:08:51,215+0530] 
+[2017-11-22 13:08:51,601]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"Bulkservice\",\"context\":\"\\\/v1\\\/ip\\\/sys\",\"version\":\"v1\"}"} 
+[2017-11-22 13:08:51,751]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:08:51,749+0530] 
+[2017-11-22 13:08:58,831]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:08:58,791+0530] 
+[2017-11-22 13:09:16,279]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"Bulkservice\",\"context\":\"\\\/v1\\\/ip\\\/sys\",\"version\":\"v1\"}"} 
+[2017-11-22 13:09:16,423]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:09:16,421+0530] 
+[2017-11-22 13:09:18,305]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:09:18,300+0530] 
+[2017-11-22 13:09:18,575]  INFO -  {"performedBy":"S.COM\/admin","action":"updated","typ":"API","info":"{\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"name\":\"Bulkservice\",\"context\":\"\\\/v1\\\/ip\\\/sys\",\"version\":\"v1\"}"} 
+[2017-11-22 13:09:18,725]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:09:18,723+0530] 
+[2017-11-22 13:09:19,762]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:09:19,716+0530] 
+[2017-11-22 13:09:20,734]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:09:20,734+0530] 
+[2017-11-22 13:09:21,071]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:09:21,068+0530] 
+[2017-11-22 13:09:51,220]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:09:51,219+0530] 
+[2017-11-22 13:13:50,204]  INFO -  {"performedBy":"S.COM\/admin","action":"created","typ":"Subscription","info":"{\"application_name\":\"TFN_REGISTRY\",\"tier\":\"Unlimited\",\"provider\":\"S.COM\\\/admin-AT-carbon.super\",\"api_name\":\"Bulkservice\",\"application_id\":3}"} 
+[2017-11-22 13:13:50,273]  INFO -  'S.COM/admin@carbon.super [-1234]' logged in at [2017-11-22 13:13:50,273+0530] 
