@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-    <item>
-        <file>v1_assignHeaderDetails.xml</file>
-        <path>/_system/governance/com/somos/services/v1/ip/bulkservice/sequences</path>
-        <mediaType>application/vnd.wso2.sequence</mediaType>
-    </item>
-</resources>

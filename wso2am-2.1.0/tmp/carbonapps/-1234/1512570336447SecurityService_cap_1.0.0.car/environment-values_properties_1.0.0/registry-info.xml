@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><resources>
-    <item>
-        <file>environment-values.properties</file>
-        <path>/_system/governance/com/somos/services/v1/ip/securityservice/resources</path>
-        <mediaType/>
-    </item>
-</resources>

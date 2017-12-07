@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sequence name="v1_bulkserviceWrapper" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
-  <sequence key="gov:com/somos/services/v1/ip/bulkservice/sequences/v1_bulkserviceIn.xml"/>
-</sequence>

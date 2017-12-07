@@ -1,3 +1,0 @@
-Method : GET
-URI : /ip/sys/bulk/count
-Note : No payload available for this request.

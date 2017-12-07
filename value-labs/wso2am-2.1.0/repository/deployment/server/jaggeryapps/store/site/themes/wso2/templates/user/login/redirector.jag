@@ -1,0 +1,11 @@
+<%
+include("/jagg/jagg.jag");
+var site = require("/site/conf/site.json");
+
+var tenant = jagg.getTenantDomain();
+var queryString = "";
+
+session.put("showLogin", "true");
+session.put("redirectToHTTPS", jagg.getHttpsUrl("/site/pages/login.jag")+queryString);
+response.sendRedirect(jagg.getHttpsUrl("/site/pages/login.jag") + queryString);
+%>

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: mysql_connector_java_5.1.42_bin
+Export-Package: com.mysql.fabric,com.mysql.fabric.hibernate,com.mysql.
+ fabric.jdbc,com.mysql.fabric.proto.xmlrpc,com.mysql.fabric.xmlrpc,com
+ .mysql.fabric.xmlrpc.base,com.mysql.fabric.xmlrpc.exceptions,com.mysq
+ l.jdbc,com.mysql.jdbc.authentication,com.mysql.jdbc.exceptions,com.my
+ sql.jdbc.exceptions.jdbc4,com.mysql.jdbc.integration.c3p0,com.mysql.j
+ dbc.integration.jboss,com.mysql.jdbc.interceptors,com.mysql.jdbc.jdbc
+ 2.optional,com.mysql.jdbc.jmx,com.mysql.jdbc.log,com.mysql.jdbc.profi
+ ler,com.mysql.jdbc.util,org.gjt.mm.mysql
+Bundle-Name: mysql_connector_java_5.1.42_bin
+Bundle-Version: 1.0.0
+Bundle-ClassPath: .,mysql-connector-java-5.1.42-bin.jar
+Bundle-ManifestVersion: 2
+DynamicImport-Package: *
+

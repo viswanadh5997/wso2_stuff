@@ -1017,3 +1017,18 @@ java.lang.NullPointerException
 2017-12-06 19:54:53,029 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
 2017-12-06 19:54:53,105 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
 2017-12-06 19:54:53,110 [-] [localhost-startStop-1]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-07 16:31:41,901 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-07 16:31:42,069 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-07 16:31:42,225 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-07 16:47:32,827 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-07 16:47:32,858 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-07 16:47:32,869 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-07 17:02:09,567 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-07 17:02:09,612 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-07 17:02:09,617 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-07 17:18:26,682 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-07 17:18:26,700 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-07 17:18:26,706 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService
+2017-12-07 21:14:56,757 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Building Axis service for Proxy service : WorkflowCallbackService
+2017-12-07 21:14:56,816 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Adding service WorkflowCallbackService to the Axis2 configuration
+2017-12-07 21:14:56,828 [-] [Framework Event Dispatcher]  INFO WorkflowCallbackService Successfully created the Axis2 service for Proxy service : WorkflowCallbackService

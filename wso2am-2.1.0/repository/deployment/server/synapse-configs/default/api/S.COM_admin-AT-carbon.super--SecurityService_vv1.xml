@@ -12,16 +12,16 @@
             <then>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIproductionEndpoint_0">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </then>
             <else>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIsandboxEndpoint_0">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </else>
@@ -42,16 +42,16 @@
             <then>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIproductionEndpoint_1">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </then>
             <else>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIsandboxEndpoint_1">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </else>
@@ -72,16 +72,16 @@
             <then>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIproductionEndpoint_2">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </then>
             <else>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIsandboxEndpoint_2">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </else>
@@ -102,16 +102,16 @@
             <then>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIproductionEndpoint_3">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </then>
             <else>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIsandboxEndpoint_3">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </else>
@@ -130,16 +130,16 @@
             <then>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIproductionEndpoint_4">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </then>
             <else>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIsandboxEndpoint_4">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </else>
@@ -160,16 +160,16 @@
             <then>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIproductionEndpoint_5">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </then>
             <else>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIsandboxEndpoint_5">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </else>
@@ -188,16 +188,16 @@
             <then>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIproductionEndpoint_6">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </then>
             <else>
                <send>
                   <endpoint name="S.COM/admin-AT-carbon.super--SecurityService_APIsandboxEndpoint_6">
-                     <http uri-template="http://localhost:8484/muletest"/>
-                     <property name="ENDPOINT_ADDRESS" value="http://localhost:8484/muletest"/>
+                     <http uri-template="https://www.google.co.in"/>
+                     <property name="ENDPOINT_ADDRESS" value="https://www.google.co.in"/>
                   </endpoint>
                </send>
             </else>

@@ -1,4 +1,4 @@
-<!--
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
   ~ Copyright WSO2, Inc. (http://wso2.com)
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,16 +12,14 @@
   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
-  -->
-        
-<UserManager>
+  --><UserManager xmlns:svns="http://org.wso2.securevault/configuration">
     <Realm>
         <Configuration>
 		<AddAdmin>true</AddAdmin>
             <AdminRole>admin</AdminRole>
             <AdminUser>
                 <UserName>admin</UserName>
-                <Password>admin</Password>
+                <Password svns:secretAlias="UserManager.AdminUser.Password">password</Password>
             </AdminUser>
             <EveryOneRoleName>everyone</EveryOneRoleName> <!-- By default users in this role sees the registry root -->
             <Property name="isCascadeDeleteEnabled">true</Property>
@@ -298,9 +296,7 @@
             <Property name="GetAllRolesOfUserEnabled">false</Property>
         </AuthorizationManager>
     </Realm>
-</UserManager>
-
-<!--
+</UserManager><!--
 
 ************* Description of some of the configuration properties used in user-mgt.xml *********************************
 

@@ -1,5 +1,0 @@
-Method : GET
-URI : /ip/sys/bulk/list
-Note : No payload available for this request.
-FOr the given respOrg get all the requestIds
-
